@@ -1,0 +1,13 @@
+{
+  "name": "proxy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "http-proxy": "^1.17.0",
+    "install": "^0.12.2",
+    "npm": "^6.8.0"
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
